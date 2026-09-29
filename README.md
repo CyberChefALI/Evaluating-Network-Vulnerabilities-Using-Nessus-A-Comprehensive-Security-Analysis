@@ -16,4 +16,15 @@ This repository documents a comprehensive security analysis and vulnerability as
 
 •	  Remediation Strategy: Translate raw technical scanner logs into clear, prioritized mitigation steps to harden target assets.
 
+## Requirements 
+
+•	Laptop/PC with minimum 4 GB RAM
+•	VMware Workstation or VirtualBox
+•	Nessus Essentials
+•	Kali Linux / Windows
+•	Authorized vulnerable target machine
+•	Stable network connection
+•	Basic networking and cybersecurity knowledge
+
+
 
