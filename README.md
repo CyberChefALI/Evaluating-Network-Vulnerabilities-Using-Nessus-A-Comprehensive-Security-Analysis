@@ -8,6 +8,12 @@ This repository documents a comprehensive security analysis and vulnerability as
 
 ## 🎯 Objectives
 
-Infrastructure Discovery: Deploy and configure Nessus to detect active hosts, open ports, and running services on the target network.   
-Vulnerability Identification: Execute targeted scans (both unauthenticated and authenticated) to uncover security gaps, outdated packages, and system misconfigurations. 
-Risk Prioritization: Analyze scan output by severity levels (Critical, High, Medium, Low, and Informational) utilizing CVSS scores and CVE references.   Remediation Strategy: Translate raw technical scanner logs into clear, prioritized mitigation steps to harden target assets.
+•	 Infrastructure Discovery: Deploy and configure Nessus to detect active hosts, open ports, and running services on the target network. 
+
+•	 Vulnerability Identification: Execute targeted scans (both unauthenticated and authenticated) to uncover security gaps, outdated packages, and system misconfigurations. 
+
+•	  Risk Prioritization: Analyze scan output by severity levels (Critical, High, Medium, Low, and Informational) utilizing CVSS scores and CVE references.
+
+•	  Remediation Strategy: Translate raw technical scanner logs into clear, prioritized mitigation steps to harden target assets.
+
+
