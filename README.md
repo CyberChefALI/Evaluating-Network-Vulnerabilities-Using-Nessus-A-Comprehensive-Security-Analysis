@@ -50,6 +50,21 @@ Outcome: Nessus is fully initialized and operational for vulnerability assessmen
 <img width="1920" height="1020" alt="Nessus _ Initializing and 2 more pages - Personal - Microsoft​ Edge 28_09_2026 14_10_31" src="https://github.com/user-attachments/assets/41c89e6c-98b4-482d-ba7e-90bd8fc16978" />
 
 
+STEP-2 Configure Target Scan
 
+1.Access the Console: From the Nessus dashboard, navigate to My Scans and initiate a New Scan.
+
+2.Choose Scan Template: Select the Basic Network Scan policy option.
+
+3.Define Parameters: Provide an appropriate project title and specify the target asset by entering the IP address of the Metasploitable 2 virtual machine in the Targets field.
+
+4.Persist Settings: Save the configuration to queue the scan.
+
+Outcome: The vulnerability scan profile is successfully established and primed for execution.
+
+<img width="1920" height="1020" alt="Screenshot 28_09_2026 14_15_14" src="https://github.com/user-attachments/assets/4b6ae1e7-9129-4952-b4e9-0fcf9441b741" />
+<img width="1920" height="1020" alt="Nessus Essentials _ Scan Templates - Personal - Microsoft​ Edge 29_09_2026 15_57_28" src="https://github.com/user-attachments/assets/efea9226-1ffa-4045-b6c9-d3034008ab3a" />
+<img width="1920" height="1020" alt="meta  Running  - Oracle VirtualBox 29_09_2026 15_10_29" src="https://github.com/user-attachments/assets/3f469113-5b1d-457f-a6d7-8c40ca64ce37" />
+<img width="1920" height="991" alt="meta  Running  - Oracle VirtualBox 29_09_2026 14_41_45" src="https://github.com/user-attachments/assets/d0cc5616-ff28-47d9-a9c3-65c80daebb00" />
 
 
