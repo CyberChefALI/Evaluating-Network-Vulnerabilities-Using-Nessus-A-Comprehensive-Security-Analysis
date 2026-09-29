@@ -19,11 +19,17 @@ This repository documents a comprehensive security analysis and vulnerability as
 ## Requirements 
 
 •	Laptop/PC with minimum 4 GB RAM
+
 •	VMware Workstation or VirtualBox
+
 •	Nessus Essentials
+
 •	Kali Linux / Windows
+
 •	Authorized vulnerable target machine
+
 •	Stable network connection
+
 •	Basic networking and cybersecurity knowledge
 
 
