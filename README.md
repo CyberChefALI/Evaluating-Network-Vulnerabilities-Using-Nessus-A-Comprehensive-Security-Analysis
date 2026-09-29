@@ -16,7 +16,7 @@ This repository documents a comprehensive security analysis and vulnerability as
 
 •	  Remediation Strategy: Translate raw technical scanner logs into clear, prioritized mitigation steps to harden target assets.
 
-## Requirements 
+## 🛠️ Tools & Environment
 
 •	Laptop/PC with minimum 4 GB RAM
 
