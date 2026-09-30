@@ -50,7 +50,7 @@ Outcome: Nessus is fully initialized and operational for vulnerability assessmen
 <img width="1920" height="1020" alt="Nessus _ Initializing and 2 more pages - Personal - Microsoft​ Edge 28_09_2026 14_10_31" src="https://github.com/user-attachments/assets/41c89e6c-98b4-482d-ba7e-90bd8fc16978" />
 
 
-STEP-2 Configure Target Scan
+# STEP-2 Configure Target Scan
 
 1.Access the Console: From the Nessus dashboard, navigate to My Scans and initiate a New Scan.
 
@@ -68,3 +68,15 @@ Outcome: The vulnerability scan profile is successfully established and primed f
 <img width="1920" height="991" alt="meta  Running  - Oracle VirtualBox 29_09_2026 14_41_45" src="https://github.com/user-attachments/assets/d0cc5616-ff28-47d9-a9c3-65c80daebb00" />
 
 
+# Step-3 Run Vulnerability Scan
+
+1.Find and open your pre-set vulnerability scan for Metasploitable .
+
+2.Double-check that the target IP address is accurate.
+
+3.Start the scan by clicking the launch button.
+
+4.Allow the scan to finish running.
+
+5.Review the findings by opening the finished report.
+Outcome: The scanner successfully probes Metasploitable 2 and creates a list of discovered vulnerabilities.
