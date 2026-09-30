@@ -180,6 +180,26 @@ outcome: The identified vulnerabilities(if found) are properly documented and th
 
 5.Confirm that your updates and changes took effect and were completed properly.
 
+# THE OUTCOME
+
+Nessus successfully completed a security check on the Metasploitable/WINDOWS target, uncovering flaws ranging from Critical and High down to Medium, Low, and Informational levels.
+
+Final Findings:
+
+🟥 Critical: 0
+🟧 High: 0
+🟨 Medium: 0
+🟦 Low: 0
+⬜ Informational: 26
+Total Findings: 26
+Result: The project successfully demonstrated vulnerability scanning, analysis, documentation, and remediation verification using Nessus in an authorized lab environment.
+
+# Conclusion
+
+The lab-based security assessment on Metasploitable & windows via Nessus wrapped up successfully, leveraging the tool to spot and group risks by severity. Overall, the project delivered practical skills in vulnerability evaluation, reporting, and remediation, reinforcing the critical role that continuous security monitoring plays in hardening systems.
+
+Warm regards,
+cyberchefAli | Aspiring Cybersecurity Professional
 
 
 
