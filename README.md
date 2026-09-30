@@ -142,6 +142,43 @@ Outcome: The critical security flaws are successfully spotted, and their informa
 4.Log key reconnaissance data, such as active ports, running services, and system configurations.
 
 5.Take screenshots to use as proof or documentation.
+outcome:The informational findings are reviewed and useful system and service information is recorded.
+
+<img width="1920" height="1020" alt="Nessus Essentials _ Folders _ View Scan - Personal - Microsoft​ Edge 30_09_2026 20_20_26" src="https://github.com/user-attachments/assets/0caf2f1c-f0d6-4da3-8c72-9b61928280af" /> 
+
+# Step-7 Recording Vulnerabilities and Evaluating Threats
+
+1.Review the vulnerabilities identified(if found)
+
+2.Select the important Critical, High, and Medium vulnerabilities for detailed documentation.
+
+3.For each vulnerability, record:
+
+Vulnerability Name
+Severity
+CVE ID (if available)
+Affected Port & Service
+Description
+Security Impact
+Recommendation
+Evidence/Screenshot
+4.Organize the findings according to their severity.
+
+5.Prepare a summary of the identified vulnerabilities and their risks.
+
+outcome: The identified vulnerabilities(if found) are properly documented and their security risks are analyzed
+
+# Step-8 Corrective Actions and Risk Control
+
+1.Examine the security fixes suggested by Nessus.
+
+2.Focus first on the most dangerous issues, targeting Critical and High severity flaws.
+
+3.Implement proper security measures within your windows test lab.
+
+4.Adjust or patch vulnerable services wherever necessary.
+
+5.Confirm that your updates and changes took effect and were completed properly.
 
 
 
