@@ -198,8 +198,8 @@ Result: The project successfully demonstrated vulnerability scanning, analysis, 
 
 The lab-based security assessment on Metasploitable & windows via Nessus wrapped up successfully, leveraging the tool to spot and group risks by severity. Overall, the project delivered practical skills in vulnerability evaluation, reporting, and remediation, reinforcing the critical role that continuous security monitoring plays in hardening systems.
 
-Warm regards,
-cyberchefAli | Aspiring Cybersecurity Professional
+# Warm regards,
+# cyberchefAli | Aspiring Cybersecurity Professional
 
 
 
