@@ -107,4 +107,42 @@ Outcome: Vulnerabilities are grouped by their threat level, highlighting the hig
 <img width="1920" height="1020" alt="Nessus Essentials _ Folders _ View Scan - Personal - Microsoft​ Edge 30_09_2026 19_43_28" src="https://github.com/user-attachments/assets/c81bc705-95fc-42f6-bf04-5b0266725a0f" />
 
 
+# Step-5 Investigate the critical threats found during the scan
+
+1.Navigate to the Vulnerabilities tab inside your Nessus report.
+
+2.Filter the results to show only the Critical severity issues.
+
+3.There is no severe Vulnerabilities found .
+
+4.Record the following details:(if vulnerabilities found)
+
+Vulnerability Name
+Severity
+CVE ID (if available)
+Affected Port & Service
+Description
+Security Impact
+Solution/Recommendation
+
+5.Capture screenshots of the relevant Nessus findings for documentation.
+Outcome: The critical security flaws are successfully spotted, and their information is gathered to document and review further.
+
+<img width="1920" height="1020" alt="Nessus Essentials _ Folders _ View Scan - Personal - Microsoft​ Edge 30_09_2026 20_20_26" src="https://github.com/user-attachments/assets/5fd4fb35-8be1-4c69-9a7d-391dea760fca" />
+<img width="1920" height="1020" alt="Nessus Essentials _ Folders _ View Scan - Personal - Microsoft​ Edge 30_09_2026 20_20_10" src="https://github.com/user-attachments/assets/fcc67f77-b1cd-44b8-8711-be96d89105ab" /> 
+
+# Step-6 Review Informational Findings
+
+1.Navigate to the Vulnerabilities tab in Nessus and apply the "Info" severity filter.
+
+2.Go through the 131 informational items discovered on the target machine.
+
+3.Examine the specifics of the findings that matter to your assessment.
+
+4.Log key reconnaissance data, such as active ports, running services, and system configurations.
+
+5.Take screenshots to use as proof or documentation.
+
+
+
 
